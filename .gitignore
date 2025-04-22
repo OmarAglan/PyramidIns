@@ -1,1 +1,18 @@
- 
+# Build output
+build/
+*.o
+*.obj
+*.bin
+*.iso
+*.elf
+*.exe
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db 
